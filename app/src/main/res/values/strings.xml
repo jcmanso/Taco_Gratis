@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taco Calendario del Corazón de Jesús</string>
+    <string name="date_picker">Selecciona fecha</string>
+    <string name="banner_inferior_ad_unit_id">ca-app-pub-3979270817985948/5805941912</string>
+    <!--string name="banner_inferior_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string-->
+    <!--string name="banner_inferior_ad_unit_id">ca-app-pub-3979270817985948~4329208717</string-->
+
+</resources>
